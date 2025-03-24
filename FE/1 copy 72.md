@@ -1,4 +1,4 @@
-# 문제
+# 질문
 Vue의 반응형(Reactivity) 시스템에서 ref, reactive, readonly, shallowRef, shallowReactive의 차이점을 설명해주세요.
 
 # 질문의도

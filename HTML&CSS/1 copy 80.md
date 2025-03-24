@@ -1,4 +1,4 @@
-# 문제
+# 질문
 CSS의 grid-auto-flow 속성은 무엇이며, row, column, dense 옵션이 각각 어떤 역할을 하는지 설명해주세요.
 
 # 질문의도

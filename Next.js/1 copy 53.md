@@ -1,4 +1,4 @@
-# 문제
+# 질문
 Next.js에서 Dynamic Routes(동적 라우트)와 Catch-All Routes의 차이점을 설명해주세요.
 
 # 질문의도

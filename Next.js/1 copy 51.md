@@ -1,4 +1,4 @@
-# 문제
+# 질문
 Next.js에서 App Router와 Pages Router의 차이점을 설명해주세요.
 
 # 질문의도

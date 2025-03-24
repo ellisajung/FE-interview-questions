@@ -1,4 +1,4 @@
-# 문제
+# 질문
 React에서 컨텍스트(Context API)와 전역 상태 관리 라이브러리(Redux, Zustand 등)의 차이점을 설명해주세요.
 
 # 질문의도

@@ -1,4 +1,4 @@
-# 문제
+# 질문
 CSS의 position: sticky는 어떻게 동작하며, relative, fixed, absolute과 비교했을 때 어떤 차이점이 있는지 설명해주세요.
 
 # 질문의도

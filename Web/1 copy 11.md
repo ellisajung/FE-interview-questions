@@ -1,4 +1,4 @@
-# 문제
+# 질문
 브라우저의 스토리지(Storage) 옵션인 localStorage, sessionStorage, 쿠키의 차이점과 각각 어떤 상황에서 사용하는 것이 적합한지 설명해주세오.
 
 # 질문의도

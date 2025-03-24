@@ -1,4 +1,4 @@
-# 문제
+# 질문
 Recoil에서 Selector란 무엇이며, Selector를 활용해 파생된 상태(derived state)를 관리하는 방법을 설명해주세요.
 
 # 질문의도

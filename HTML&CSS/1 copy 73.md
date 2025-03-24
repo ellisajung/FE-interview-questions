@@ -1,4 +1,4 @@
-# 문제
+# 질문
 CSS에서 relative, absolute, fixed, sticky의 차이점을 설명해주세요.
 
 # 질문의도

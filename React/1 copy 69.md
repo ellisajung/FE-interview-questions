@@ -1,4 +1,4 @@
-# 문제
+# 질문
 React에서 서버 컴포넌트(Server Components)와 클라이언트 컴포넌트(Client Components)의 차이점을 설명해주세요.
 
 # 질문의도

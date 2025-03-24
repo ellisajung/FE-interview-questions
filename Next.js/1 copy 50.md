@@ -1,4 +1,4 @@
-# 문제
+# 질문
 Next.js에서 getServerSideProps, getStaticProps, ISR(Incremental Static Regeneration)의 차이점을 설명해주세요.
 
 # 질문의도

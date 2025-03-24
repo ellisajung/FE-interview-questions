@@ -1,4 +1,4 @@
-# 문제
+# 질문
 React의 useLayoutEffect와 useEffect의 차이점을 설명하고, 각각 언제 사용해야 하는지 설명해주세요.
 
 # 질문의도

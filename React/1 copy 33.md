@@ -1,4 +1,4 @@
-# 문제
+# 질문
 React에서 useMemo와 useCallback 훅의 차이를 메모이제이션과 함께 설명해주세요.
 
 # 질문의도

@@ -1,4 +1,4 @@
-# 문제
+# 질문
 Vue에서 watch와 watchEffect의 차이점을 설명해주세요.
 
 # 질문의도

@@ -1,4 +1,4 @@
-# 문제
+# 질문
 CSS에서 BEM(Block, Element, Modifier) 방법론이란 무엇이며, 이를 사용해야 하는 이유를 설명해주세요.
 
 # 질문의도

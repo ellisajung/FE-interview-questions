@@ -1,4 +1,4 @@
-# 문제
+# 질문
 React의 렌더링 최적화를 위해 React.lazy와 Suspense를 사용하는 이유를 설명하고, 코드 스플리팅(Code Splitting)이 성능에 미치는 영향을 분석해주세요.
 
 # 질문의도

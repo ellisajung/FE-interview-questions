@@ -1,4 +1,4 @@
-# 문제
+# 질문
 Vue에서 Composition API와 Options API의 차이점을 설명헤주세요.
 
 # 질문의도

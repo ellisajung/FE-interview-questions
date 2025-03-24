@@ -1,4 +1,4 @@
-# 문제
+# 질문
 React에서 useReducer 훅과 useState 훅의 차이를 설명하고, 상태 관리에 useReducer를 사용하는 것이 적합한 상황을 예제와 함께 제시해주세요.
 
 # 질문의도

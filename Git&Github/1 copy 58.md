@@ -1,4 +1,4 @@
-# 문제
+# 질문
 Git에서 Git Flow란 무엇이며, 브랜치 전략(예: main, develop, feature, release, hotfix)을 설명해주세요.
 
 # 질문의도

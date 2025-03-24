@@ -1,4 +1,4 @@
-# 문제
+# 질문
 React에서 서버 컴포넌트(Server Components)란 무엇인지 설명해주세요.
 
 # 질문의도

@@ -1,4 +1,4 @@
-# 문제
+# 질문
 CSR(Client-Side Rendering), SSR(Server-Side Rendering), SSG(Static Site  Generation)의 차이점을 설명해주세요. 각각의 렌더링 방식이 적합한 상황과 그 이유를 설명해주세요.
 
 # 질문의도

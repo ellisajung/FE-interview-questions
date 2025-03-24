@@ -1,4 +1,4 @@
-# 문제
+# 질문
 React에서 Context API와 Redux의 차이점을 설명해주세요.
 
 # 질문의도

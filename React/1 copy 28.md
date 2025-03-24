@@ -1,4 +1,4 @@
-# 문제
+# 질문
 React에서 useLayoutEffect와 useEffect의 차이점을 설명하고, 각각의 훅이 적합한 상황을 예제와 함께 제시해주세요. 
 
 # 질문의도
