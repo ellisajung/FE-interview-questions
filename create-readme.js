@@ -43,7 +43,10 @@ lines.push(`- 총 질문 개수: **${Object.values(groupedMdFiles).flat().length
 
 // 폴더 이름 기준 정렬
 Object.keys(groupedMdFiles).sort().forEach(folder => {
+lines.push('<details>');
+lines.push('<summary>');
 lines.push(`### 📁 ${folder === '.' ? '루트' : folder}`);
+lines.push('</summary>');
 lines.push('');
 lines.push('| No | 질문 |');
 lines.push('| --- | --- |');
@@ -52,7 +55,7 @@ groupedMdFiles[folder].forEach((filePath, index) => {
     const problemText = extractProblemText(filePath); // 문제 텍스트 추출
     lines.push(`| ${index + 1} | ${problemText} |`);
 });
-lines.push('');
+lines.push('</details>');
 });
 
 lines.push('---');
