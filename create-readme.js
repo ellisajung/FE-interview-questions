@@ -32,7 +32,7 @@ lines.push('# 📚 FE 면접 질문 List');
 Object.keys(groupedMdFiles).sort().forEach(folder => {
   lines.push(`### 📁 ${folder === '.' ? '루트' : folder}`);
   lines.push('');
-  lines.push('| No | 파일명 |');
+  lines.push('| No | 질문 |');
   lines.push('| --- | --- |');
 
   groupedMdFiles[folder].forEach((file, index) => {
