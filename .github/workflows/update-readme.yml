@@ -21,8 +21,8 @@ jobs:
       - name: Install dependencies (if needed)
         run: npm ci || npm install
 
-      - name: Run generate-readme script
-        run: node generate-readme.js
+      - name: Run create-readme script
+        run: node create-readme.js
 
       - name: Commit and push changes
         run: |
