@@ -2,7 +2,8 @@
 - 질문들은 **'하루에 하나씩 FE 개발자 면접 문제'** 카톡 오픈채팅방에 업로드 되는 질문들로 구성되었습니다.
 - 질문들은 크게 **FE, HTML&CSS, JS, React, Next.js, TS, Web, Git&Github** 으로 나누었습니다.
 - 총 질문 개수: **88개**
-### 📁 FE
+
+## 📁 FE
 
 | No | 질문 |
 | --- | --- |
@@ -26,14 +27,18 @@
 | 18 | package-lock.json 파일이 Git 저장소에 포함되어야 하는 이유를 설명하고, 이를 포함하지 않을 경우 발생할 수 있는 질문를 분석해주세요. |
 | 19 | ShadCN이 무엇인지 설명하고, 일반적인 UI 라이브러리(Material UI, Chakra UI 등)와 비교했을 때 어떤 차별점을 가지는지 분석해주세요. |
 
-### 📁 Git&Github
+
+
+## 📁 Git&Github
 
 | No | 질문 |
 | --- | --- |
 | 1 | Git에서 rebase와 merge의 차이점을 설명하고, 각각을 언제 사용해야 하는지 비교해주세요. |
 | 2 | Git에서 Git Flow란 무엇이며, 브랜치 전략(예: main, develop, feature, release, hotfix)을 설명해주세요. |
 
-### 📁 HTML&CSS
+
+
+## 📁 HTML&CSS
 
 | No | 질문 |
 | --- | --- |
@@ -47,13 +52,17 @@
 | 8 | CSS의 z-index 속성이 무엇인지 설명하고, z-index를 사용할 때 발생할 수 있는 질문와 이를 해결하는 방법에 대해 설명해주세요. |
 | 9 | CSS의 grid-auto-flow 속성은 무엇이며, row, column, dense 옵션이 각각 어떤 역할을 하는지 설명해주세요. |
 
-### 📁 JS
+
+
+## 📁 JS
 
 | No | 질문 |
 | --- | --- |
 | 1 | JavaScript에서 Event Delegation이란 무엇이며, 이를 사용하는 이유를 설명해주세요. 또한, Event Delegation을 구현하는 방법과 이를 사용할 때 발생할 수 있는 질문점 및 해결 방안을 제시해주세요. |
 
-### 📁 Next.js
+
+
+## 📁 Next.js
 
 | No | 질문 |
 | --- | --- |
@@ -66,7 +75,9 @@
 | 7 | ShadCN을 사용하여 다크 모드를 구현할 때 고려해야 할 사항은 무엇인가요? 또한, Next.js 환경에서 다크 모드를 효율적으로 관리하기 위한 방법을 설명해주세요. |
 | 8 | ShadCN을 Next.js 프로젝트에서 사용할 때의 장점과 단점을 설명하고, 서버 컴포넌트(Server Components) 환경에서 ShadCN을 사용할 때 고려해야 할 점이 무엇인지 분석해주세요. |
 
-### 📁 React
+
+
+## 📁 React
 
 | No | 질문 |
 | --- | --- |
@@ -111,7 +122,9 @@
 | 39 | React의 렌더링 최적화를 위해 React.lazy와 Suspense를 사용하는 이유를 설명하고, 코드 스플리팅(Code Splitting)이 성능에 미치는 영향을 분석해주세요. |
 | 40 | React에서 포털(Portal)이란 무엇인지 설명하고, 이를 사용하여 모달 컴포넌트를 구현하는 방벚을 설명해주세요. |
 
-### 📁 TS
+
+
+## 📁 TS
 
 | No | 질문 |
 | --- | --- |
@@ -120,7 +133,9 @@
 | 3 | 타입스크립트에서 keyof 연산자와 인덱스드 타입을 설명해주세요. |
 | 4 | 타입스크립트에서 Partial<T>와 Required<T> 유틸리티 타입의 차이를 설명하세요. |
 
-### 📁 Web
+
+
+## 📁 Web
 
 | No | 질문 |
 | --- | --- |
@@ -129,6 +144,7 @@
 | 3 | 프론트엔드 개발에서 Virtual DOM이란 무엇이고, 이를 사용하는 이유를 설명해주세요. 그리고 Virtual DOM의 동작 과정을 간단히 설명해주세요. |
 | 4 | 웹 보안에서 XSS(Cross-Site Scripting)란 무엇이며, 이를 방지하기 위해 적용할 수 있는 3가지 방법을 설명해주세요. |
 | 5 | CSR(Client-Side Rendering), SSR(Server-Side Rendering), SSG(Static Site  Generation)의 차이점을 설명해주세요. 각각의 렌더링 방식이 적합한 상황과 그 이유를 설명해주세요. |
+
 
 ---
 > 이 README는 GitHub Actions로 자동 업데이트됩니다.
