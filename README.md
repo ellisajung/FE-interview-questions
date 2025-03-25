@@ -1,7 +1,7 @@
 # 📚 FE 면접 질문 List
 - 질문들은 **'하루에 하나씩 FE 개발자 면접 문제'** 카톡 오픈채팅방에 업로드 되는 질문들로 구성되었습니다.
 - 질문들은 크게 **FE, HTML&CSS, JS, React, Next.js, TS, Web, Git&Github** 으로 나누었습니다.
-- 총 질문 개수: **88개**
+- 총 질문 개수: **90개**
 
 ## 📁 FE
 
@@ -120,7 +120,9 @@
 | 37 | React에서 서버 컴포넌트(Server Components)와 클라이언트 컴포넌트(Client Components)의 차이점을 설명해주세요. |
 | 38 | React의 Reconciliation(재조정) 알고리즘에 대해 설명하고, key 속성이 이 과정에서 어떤 역할을 하는지 깊이 있게 설명해주세요. |
 | 39 | React의 렌더링 최적화를 위해 React.lazy와 Suspense를 사용하는 이유를 설명하고, 코드 스플리팅(Code Splitting)이 성능에 미치는 영향을 분석해주세요. |
-| 40 | React에서 포털(Portal)이란 무엇인지 설명하고, 이를 사용하여 모달 컴포넌트를 구현하는 방벚을 설명해주세요. |
+| 40 | React에서 렌더링 성능 최적화(Rendering Performance Optimization)를 위해 Virtualization(가상화) 기법을 사용하는 이유를 설명해주세요. |
+| 41 | React 애플리케이션에서 상태 관리 라이브러리(Redux, Recoil, Zustand, Jotai 등)를 선택할 때 고려해야 할 요소들은 무엇인가요? |
+| 42 | React에서 포털(Portal)이란 무엇인지 설명하고, 이를 사용하여 모달 컴포넌트를 구현하는 방벚을 설명해주세요. |
 
 
 
